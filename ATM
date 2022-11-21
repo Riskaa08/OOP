@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class atmSuci {
+public class atmRiska {
 
     public static void main(String[] args) {
 
