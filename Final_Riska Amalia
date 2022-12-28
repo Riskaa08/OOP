@@ -50,10 +50,10 @@ class LimasSegitiga():
 while True:
     print("\n")
     print("PROGRAM MENGHITUNG LUAS DAN VOLUME BANGUN RUANG")
-    print("1. Menghitung Luas Dan Volume Kubus")
-    print("2. Menghitung Luas Dan Volume Balok")
-    print("3. Menghitung Luas Dan Volume Tabung")
-    print("4. Menghitung Luas Dan Volume Limas Segitiga")
+    print("1. Menghitung luas dan volume kubus")
+    print("2. Menghitung luas dan volume balok")
+    print("3. Menghitung luas dan volume tabung")
+    print("4. Menghitung luas dan volume limas segitiga")
     print("5. Keluar")
 
     Pilih = int(input("Masukkan Pilihan Anda: "))
